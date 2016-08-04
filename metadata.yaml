@@ -1,0 +1,38 @@
+_repo: Underwoods_438
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: "Underwoods is a collection of poems by Robert Louis Stevenson published\
+  \ in 1887. It comprises two books, Book I with 38 poems in English, Book II with\
+  \ 16 poems in Scots. He says in the initial note that \"I am from the Lothians myself;\
+  \ it is there I heard the language spoken about my childhood; and it is in the drawling\
+  \ Lothian voice that I repeat it to myself.\"\nThe dedication is to \"a few out\
+  \ of many doctors who have brought me comfort and help.\" He starts by saying that\
+  \ \"There are men and classes of men that stand above the common herd: the soldier,\
+  \ the sailor and the shepherd not infrequently; the artist rarely; rarer still the\
+  \ clergyman; the physician almost as a rule. He is the flower (such as it is) of\
+  \ our civilization ....\"\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '438'
+  wikidata: Q7883924
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Underwoods
+url: http://www.gutenberg.org/ebooks/438
+wikipedia:
+- https://en.wikipedia.org/wiki/Underwoods
