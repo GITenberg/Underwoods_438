@@ -1,5 +1,8 @@
 _repo: Underwoods_438
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -19,6 +22,8 @@ description: "Underwoods is a collection of poems by Robert Louis Stevenson publ
   \ the sailor and the shepherd not infrequently; the artist rarely; rarer still the\
   \ clergyman; the physician almost as a rule. He is the flower (such as it is) of\
   \ our civilization ....\"\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/438#Underwoods
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
 identifiers:
